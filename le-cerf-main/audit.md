@@ -108,6 +108,8 @@ et dans la ligne 9: a{
 
 ## Changer toutes les balises <span> par <i> pour les icons social.
 
+## Supprimer les lien dans icons, car selon l'évaluation de Wave, il s'agit des liens redondants.
+
 ## Supprimer le div .keyword, piage, black hat.
 
 ## J'ai supprimé  h4 {color: #333333!important;}dans le style.css, ligne 739 pour h4, sinon, c'est pas visible. Et ajouter class="class="ltc-white"
