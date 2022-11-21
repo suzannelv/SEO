@@ -12,6 +12,8 @@
 
 ## Il faut ajouter le link 'bootstrap.min.css' pour minimiser la taille de fichier.
 
+## Il faut mettre les JS en bas du body et enlever le "defer"
+
 ## Il manque un titre
     --> Agence le Cerf-Une des meilleures agences de Webdesign à Lyon.
 
@@ -147,6 +149,8 @@ et dans la ligne 9: a{
 
 ## Il manque la description dans la balise "meta description"
     --> On peut ajouter "Vous souhaitez en savoir plus sur nos services et les propositions sur vos projets de webdesign? N'hésitez pas à nous contactez par email ou par téléphone". 
+
+## Il faut mettre les JS en bas du body.
 
 ## Il faut ajouter le link 'bootstrap.min.css' pour minimiser la taille de fichier.
 
