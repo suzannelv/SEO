@@ -4,7 +4,7 @@
 
 
  ## Dans la balise "meta keywords", le contenu ne correspond pas parfaitement au contenu du site et il y a bcp de répétition, en plus, c'est une agence à Lyon, pas à Paris. il faut préciser et varier les mots-clés plus pertinents.
-    --> remplacé par exemple par "seo, site web, agence de webdesign, agence desigon, Lyon, objectifs commerciaux, illustration, création du site, conception".
+    --> remplacé par exemple par "seo, site web, agence de webdesign à Lyon, agence design, création du site".
 
 
 ## Il manque la description dans la balise "meta description"
@@ -135,6 +135,25 @@ et dans la ligne 9: a{
 
 
 # Page 2.html
+
+# Partie I <head>
+
+## Comme l'index.html, balise html lang="Default"
+    --> Remplacé par langue="fr".
+
+## Il faut ajouter les mots-clés dans la balise "meta keywords":
+    --> "seo, site web, agence de webdesign à Lyon, agence design, création du site".
+
+
+## Il manque la description dans la balise "meta description"
+    --> On peut ajouter "Vous souhaitez en savoir plus sur nos services et les propositions sur vos projets de webdesign? N'hésitez pas à nous contactez par email ou par téléphone". 
+
+## Il faut ajouter le link 'bootstrap.min.css' pour minimiser la taille de fichier.
+
+## Il manque un titre
+    --> Contacter notre Agence le Cerf pour vos projets
+
+# Partie II <body>
 ## bloc-0
 ### Changer la nav identique comme dans le page d'accueil.
 
@@ -144,6 +163,14 @@ et dans la ligne 9: a{
 
 ## bloc-7
 ### Dans chaque <label>, ajouter for="" pour préciser.
+### J'ai ajouté class="display-6 text-dark" dans chaque label pour être visible.
+### Pour label <label for="prjet webdesign" > il y une erreur orthographe 
+    -->projet
+
+### Supprimé <br> derrière "Brief de votre projet (Ajoutez autant de détails que nécessaire)"
+
+
+# Partie III <footer>
 
 ## bloc-8
 ### Remplacer <div> par <footer>
